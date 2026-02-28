@@ -25,5 +25,4 @@ Inventory Management: Distributed locks to prevent overselling.
 Payment Gateway: Secure integration with Stripe.
 
 AI Recommendations: ML-based product suggestions.
-
-هل تريدني أن أشرح لك كيفية رفع ملفات الكود الخاصة بك (Frontend/Backend) إلى هذا المستودع باستخدام Git؟
+؟
